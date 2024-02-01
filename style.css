@@ -21,6 +21,9 @@
     width: 12em;
     padding: 1.5em;
 }
+#head{
+    box-shadow: none;
+}
 #display{
     margin: 0.5em;
     height: 2.5em;
